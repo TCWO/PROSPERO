@@ -14,8 +14,8 @@ If PROSPERO data, and/or code are used in your publication, please cite the foll
   
 ## Contributing
 
-Asier Antoranz.
-Pouya Nazari.
+- Asier Antoranz.
+- Pouya Nazari.
 
 ## License
 
